@@ -19,7 +19,7 @@ Even though this is just a prototype regarding initial idea Ahn explained, but p
 Even though the address of the real web page will be changed every single time of running by Bitnami, 
 but Local web page will not be changed such as 'http://127.0.0.1/index.py', 
 so someone who run this program on whose computer can access and check the results of this program.
-Also, Github(https://github.com/nezca/joohyunahn-cosc480) can provide every code.
+Also, Github(https://github.com/nezca/joohyunahn_cosc480) can provide every code.
 
 # This program's data had been gathered by the NZ Department of conservation which is the below.
 
